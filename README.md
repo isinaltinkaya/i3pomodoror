@@ -1,7 +1,7 @@
 # i3pomodoror
 i3bars scripts for pomodoror package written in R, can be downloaded from this link:  https://github.com/isinaltinkaya/pomodoror
 
-Change /path/to/script/ in i3pomodorer.sh with path to script in your system.
+Change /path/to/script/ in i3pomodoror.sh with path to script in your system.
 
 Add this to your i3blocks.conf:
 
