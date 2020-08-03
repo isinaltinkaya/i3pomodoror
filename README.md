@@ -11,4 +11,4 @@ command=/path/to/script/i3pomodoror.sh
 interval=60
 ```
 
-Don't forget to change /path/to/script/ in line 2 with path to script in your system.
+Don't forget to change `/path/to/script/` in line 2 with path to script in your system.
